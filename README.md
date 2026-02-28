@@ -1,30 +1,26 @@
-# Lau (FreshSurroud)
+# FreshSurround
 
-Backend & IoT developer focused on data-driven systems and hardware–software integration.
+Backend developer working on data-driven systems and IoT integrations.
 
-I build backend architectures that connect real-world data sources (APIs, environmental datasets, sensors) with structured, scalable web applications.
+Building backend architectures that connect APIs, environmental datasets, and hardware sensors to web-based visualization platforms.
 
----
+## Stack
 
-## Tech Stack
+Python   ·   C++   ·   JavaScript   ·   C#
 
-**Languages:** Python, C++, JavaScript, C#  
-**Backend:** FastAPI, REST APIs, SQL, authentication systems  
-**IoT:** Arduino, I2C/SPI/Serial communication, embedded data acquisition  
-**Tools:** Git, Linux, Docker (in progress)
+FastAPI   ·   REST · SQL  
 
----
+Arduino   ·   I2C / SPI / Serial  
 
-## Current Projects
+Git ·   Linux   ·   Docker
 
-### SolarFormes - Environmental Data Visualization Web App
-Backend-driven web application integrating public environmental datasets.  
-Features include dynamic filtering, dashboards, user accounts, and report generation (HTML/PDF).
 
-### AS7341 Spectral Sensor Interface
-Full stack system for real-time spectral data acquisition.  
-Includes hardware communication, backend API, data processing, and web-based visualization.
+## Projects
 
----
+**SolarFormes**  
+Environmental data visualization platform.  
+Public datasets integration, filtering, dashboards, user accounts, HTML/PDF reporting.
 
-Focused on environmental systems, backend architecture, and IoT–web integration.
+**AS7341 Spectral Sensor Interface**  
+Real-time spectral acquisition system.  
+Hardware communication, backend API, data processing, web visualization.
