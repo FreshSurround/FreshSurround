@@ -1,8 +1,10 @@
 # FreshSurround
 
-Backend developer working on data-driven systems and IoT integrations.
+Hi! I'm Lau.
 
-Building backend architectures that connect APIs, environmental datasets, and hardware sensors to web-based visualization platforms.
+I'm a Backend developer working on data-driven systems and IoT integrations.
+
+I'm building backend architectures that connect APIs, environmental datasets, and hardware sensors to web-based visualization platforms.
 
 ## Stack
 
