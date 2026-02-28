@@ -19,10 +19,10 @@ Git ·   Linux   ·   Docker
 
 ## Projects
 
-**SolarFormes**  
+[**SolarFormes**](https://github.com/FreshSurround/solarformes)  
 Environmental data visualization platform.  
 Public datasets integration, filtering, dashboards, user accounts, HTML/PDF reporting.
 
-**AS7341 Spectral Sensor Interface**  
+[**AS7341 Spectral Sensor Interface**](https://github.com/FreshSurround/as7341-Easy-Spectrometer)  
 Real-time spectral acquisition system.  
 Hardware communication, backend API, data processing, web visualization.
